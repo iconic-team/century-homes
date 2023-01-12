@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        Do a Home Renting Project
         </a>
       </header>
     </div>
